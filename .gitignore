@@ -1,0 +1,17 @@
+# Environment variables - never commit real keys
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Database
+*.db
+
+# Logs
+logs/*.json
+
+# Generated files
+get-pip.py
