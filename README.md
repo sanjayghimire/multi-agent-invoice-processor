@@ -144,8 +144,7 @@ Every invoice generates a JSON audit log:
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/acme-invoice-processor
-cd acme-invoice-processor
+git clone https://github.com/sanjayghimire/multi-agent-invoice-processor
 
 # Create virtual environment
 python -m venv venv
